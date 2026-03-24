@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-ho
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-apple-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-samsung-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-microsoft-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/microsoft-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json
